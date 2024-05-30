@@ -1,0 +1,11 @@
+Firstly we launch 2 t2 medium instances
+We make one master and one node server
+We install kubeadm on both.
+We join node server to master using token 
+Pod manifest creation and apply
+App deployment creation and apply
+Nodeport service creationa and apply
+Mysql deployment creation and apply
+Creation of Persisten volume
+Creation of Persistent volume Claim
+Include th
